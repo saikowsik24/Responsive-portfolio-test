@@ -2,7 +2,7 @@
 portfolio website using HTML, CSS, Js
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website built with **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and experience as a frontend developer. The site is fully responsive and designed to provide a smooth user experience across all devices.
+This is a responsive portfolio website project built using HTML, CSS, and JavaScript. It serves as a template to showcase skills, featured projects, and developer experience. The design is fully responsive, ensuring a smooth and consistent user experience across all device sizes.
 
 ---
 
